@@ -1,0 +1,27 @@
+{
+    "calendar": {
+      "name": "My Calendar",
+      "description": "A calendar for keeping track of events and appointments",
+      "events": [
+        {
+          "title": "Doctor's Appointment",
+          "date": "2023-04-15",
+          "time": "14:30"
+          
+        },
+        {
+          "title": "Lunch with Jane",
+          "date": "2023-04-17",
+          "time": "12:00"
+          
+        },
+        {
+          "title": "Business Trip",
+          "date": "2023-04-22",
+          "time": "08:00"
+        
+        }
+      ]
+    }
+  }
+  
