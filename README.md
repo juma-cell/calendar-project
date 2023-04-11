@@ -25,7 +25,7 @@ If you find a bug or would like to suggest a new feature, please feel free to su
 My Calendar was developed by [Juma Musa] and is distributed under the MIT license.
 
 //License//
-My Calendar is distributed under the LICENSE.md . See the LICENSE.md file for more information.....
+My Calendar is distributed under the LICENSE.md . See the LICENSE.md file for more information.
 
 
 
